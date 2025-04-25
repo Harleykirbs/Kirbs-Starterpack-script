@@ -1,0 +1,2 @@
+# Kirbs-Starterpack-script
+/starterpack
